@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor Pestana</h1>
 <h3 align="center">A passionate frontend Brazilian student living in Portugal</h3>
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript**
+- 🌱 I’m currently learning **Javacript**
 
 - 💬 About Me **Piano Player and Football Lover!**
 
