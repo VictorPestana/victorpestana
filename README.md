@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Pestana</h1>
-<h3 align="center">A passionate frontend Brazilian student living in Portugal</h3>
+<h3 align="center">A passionate Fullstack JavaScript Brazilian student</h3>
 
 - 🌱 I’m currently learning **Javacript**
 
