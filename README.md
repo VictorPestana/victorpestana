@@ -1,12 +1,14 @@
 # Olá! 👋 Eu sou o Victor Pestana  
 
-🎓 **Um Estudante Apaixonado por Desenvolvimento Fullstack em JavaScript**  
-🌟 Atualmente mergulhando no universo do JavaScript e desenvolvendo projetos incríveis.
+🎓 **Um Estudante de Desenvolvimento Fullstack JavaScript**  
+
+🌟 Atualmente mergulhando no universo Fullstack e desenvolvendo projetos incríveis.
 
 ---
 
 ## 💬 **Sobre Mim**  
-🌍 Tive a incrível experiência de viver 6 anos no exterior, mais especificamente em Portugal. Isso me deu uma visão única sobre diferentes culturas e abordagens para a resolução de problemas.  
+🌍 Tive a incrível experiência de viver 6 anos no exterior, mais especificamente em Portugal. Isso me deu uma visão única sobre diferentes culturas e abordagens para a resolução de problemas. 
+ 
 🌱 Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades em programação, buscando desafios que me ajudem a crescer profissionalmente.
 
 ---
