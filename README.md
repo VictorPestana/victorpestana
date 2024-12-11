@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou o Victor Pestana  
 
-<a href="https://www.vecteezy.com/vector-art/5177282-worker-of-developer-web">worker of developer web Vectors by Vecteezy</a>
+https://www.vecteezy.com/vector-art/5177282-worker-of-developer-web
 
 🎓 **Um Estudante de Desenvolvimento Fullstack JavaScript, atualmente cursando Sistemas da Informação**  
 
