@@ -1,5 +1,7 @@
 # Olá! 👋 Eu sou o Victor Pestana  
 
+![Desenvolvedor](https://www.vecteezy.com/free-vector/developer) 
+
 🎓 **Um Estudante de Desenvolvimento Fullstack JavaScript, atualmente cursando Sistemas da Informação**  
 
 🌟 Atualmente mergulhando no universo Fullstack e desenvolvendo projetos incríveis.
@@ -31,7 +33,6 @@
 
 ## 📈 **Status no GitHub**  
 [![Victor Pestana GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorPestana&show_icons=true&hide_title=true&count_private=true&hide=prs)](https://github.com/VictorPestana)  
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorpestana&show_icons=true&locale=en&layout=compact" alt="victorpestana" /></p>
 
