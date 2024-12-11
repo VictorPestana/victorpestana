@@ -1,8 +1,6 @@
-# Olá! 👋 Eu sou o Victor Pestana  
+# Olá! 👋 Muito prazer, sou o Victor Pestana, tenho 18 anos e vivo em São Paulo.
 
-https://www.vecteezy.com/vector-art/5177282-worker-of-developer-web
-
-🎓 **Um Estudante de Desenvolvimento Fullstack JavaScript, atualmente cursando Sistemas da Informação**  
+🎓 **Estudante de Desenvolvimento Fullstack JavaScript, atualmente cursando Sistemas da Informação**  
 
 🌟 Atualmente mergulhando no universo Fullstack e desenvolvendo projetos incríveis.
 
